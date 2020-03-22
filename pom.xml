@@ -8,7 +8,6 @@
     <artifactId>hologram-api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-  
     <repositories>
         <repository>
             <id>mcstats</id>
@@ -28,7 +27,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
-            <version>1.12.2-R0.1-SNAPSHOT</version>
+            <version>1.12.2</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
